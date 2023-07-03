@@ -204,9 +204,9 @@ footer {
   position: absolute;
   bottom: 20px;
 }
-.button-parrent {
+.button-parent {
   position: relative;
-  height: 50px;
+  height: 80px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -214,7 +214,6 @@ footer {
 }
 
 .centered-button {
-  padding: 24px 139px;
   background-color: #1d5590;
   color: #fff;
   border: none;
@@ -222,7 +221,6 @@ footer {
   cursor: pointer;
   background-image: url("/docs/assets/images/logo-kirolak-interior.png");
 }
-
 @media screen and (max-width: 768px) {
   .column {
     width: 100%;
