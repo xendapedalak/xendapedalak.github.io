@@ -219,7 +219,7 @@ footer {
   border: none;
   border-radius: 4px;
   cursor: pointer;
-  background-image: url("/docs/assets/images/logo-kirolak-interior.png");
+  background-image: url("/docs/assets/images/argazkiak.png");
 }
 @media screen and (max-width: 768px) {
   .column {
